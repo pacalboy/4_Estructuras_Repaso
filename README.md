@@ -101,7 +101,7 @@ Corrección:
   
 5. Insertar un número entero y mostrar su visualización en números romanos.
 
-**Recursivo** 
+**Recursivo**  
 Investigar recursividad.  
 Considere siguiente proceso repetitivo para un número entero dado: si el número es 1, el proceso termina. De lo contrario, si es par se divide entre 2, y si es impar se multiplica por 3 y se le suma 1.  
 Por ejemplo: si empezamos con 6 obtendremos la sucesión de números 6, 3, 10, 5, 16, 8, 4, 2, 1. La conjetura de Collatz dice que, a partir de cualquier número inicial, la sucesión obtenida siempre termina en 1. Escriba un programa que permita verificar la conjetura de Collatz para cualquier entero dado, y que imprima la secuencia correspondiente.
